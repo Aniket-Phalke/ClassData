@@ -39,3 +39,38 @@ console.log(boll1)
 let str=33
 let str1=String(str)
 console.log(typeof str1)
+
+//-------------------------operations--------------------------------------
+
+console.log(3+4)
+console.log(5-4)
+console.log(3*4);
+console.log(3/9);
+console.log(3**3);
+
+
+let sen1="this is "
+let sen2="concat string"
+console.log(sen1+sen2);
+
+console.log("1"+2)//12
+console.log(2+"1")//21
+console.log("2"+2+2);//222//after string value consider string then concat
+console.log(2+2+"2")//42
+
+
+console.log(+true);//1
+console.log(+"");//0
+
+let x=10;
+console.log(x++)//10
+let y=10
+y++;
+console.log(y)//11
+
+let z=10
+console.log(++z)//11
+
+let a=10
+++a
+console.log(a);//11
