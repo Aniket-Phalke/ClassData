@@ -64,7 +64,7 @@ console.log(+"");//0
 
 let x=10;
 console.log(x++)//10
-let y=10
+let y=10 
 y++;
 console.log(y)//11
 
