@@ -20,3 +20,4 @@ console.log(string.indexOf("m"));
 console.log(string.replace("aniket","phalke"));
 
 console.log(string.split(" ").join("-"))
+console.log(string)
