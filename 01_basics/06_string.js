@@ -10,14 +10,16 @@ console.log(string.substring(3,7));
 console.log(string.substring(-50,7))
 
 console.log(string.slice(3,7))
-console.log(string.slice(-8,4))
+console.log(string.slice(8,4))
 
-console.log(string.toUpperCase());
-console.log(string.trim());
-console.log(string.includes("my"));
-console.log(string.charAt(2));
-console.log(string.indexOf("m"));
-console.log(string.replace("aniket","phalke"));
+// console.log(string.toUpperCase());
+// console.log(string.trim());
+// console.log(string.includes("my"));
+// console.log(string.charAt(2));
+// console.log(string.indexOf("m"));
+// console.log(string.replace("aniket","phalke"));
 
-console.log(string.split(" ").join("-"))
-console.log(string)
+// console.log(string.split(" ").join("-"))
+// console.log("str insert")
+
+
